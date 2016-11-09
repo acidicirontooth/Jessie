@@ -20,7 +20,3 @@ function Jessie(library) {
     var result = Jessie.expand(start, expansion);
   }
 }
-
-var Jessie = {
-  BUILD: 161108
-}
